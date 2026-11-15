@@ -25,7 +25,7 @@ API Server รองรับการทำงานดังนี้
 
 ## URL สำหรับเข้าใช้งาน API
 
-- API Server: https://arrakis-dune-drone-survey-archive.onrender.com/
+- API Server: https://arrakis-dune-drone-survey-archive.onrender.com/configs/67010553
 
 หมายเหตุ: เนื่องจาก Render Free จะหยุดการทำงานของ Web Service เมื่อไม่มีการใช้งานเป็นระยะเวลาหนึ่ง เมื่อมีการเรียกใช้งานอีกครั้ง เซิร์ฟเวอร์อาจใช้เวลาประมาณ 30–60 วินาทีในการเริ่มทำงานค่ะ
 
